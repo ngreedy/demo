@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">杂居随笔</string>
+
+    <array name="videos">
+        <item>电影</item>
+        <item>搞笑视频</item>
+        <item>动画片</item>
+        <item>MTV</item>
+        <item>游戏CG</item>
+        <item>预告/花絮</item>
+        <item>欢乐喜剧人</item>
+        <item>中国新歌声</item>
+        <item>极速前进</item>
+        <item>微微一笑</item>
+    </array>
+    <array name="photos">
+        <item>经典截图</item>
+        <item>搞笑图片</item>
+        <item>图说电影</item>
+        <item>游戏皮肤</item>
+        <item>中国新歌声</item>
+        <item>极速前进</item>
+        <item>微微一笑</item>
+    </array>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
